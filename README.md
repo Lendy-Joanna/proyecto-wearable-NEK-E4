@@ -17,7 +17,13 @@ _Este proyecto tiene como finalidad medir el pulso de las personas mayores por m
 
 | Nombre |  Imagen | Descripción | Cantidad | 
 | :---         |     :---:      |          ---: |       ---: |
-| Visor LCD   | ![image](https://user-images.githubusercontent.com/80369054/173699668-76e4703f-cbea-4009-903c-d10d63ba1bb5.png)| ### Un LCD (liquid crystal display) una pantalla delgada y plana formada por un número de píxeles en color o monocromos colocados delante de una fuente de luz o reflectora.    |       1 |
+| Visor LCD   | ![image](https://user-images.githubusercontent.com/80369054/173699668-76e4703f-cbea-4009-903c-d10d63ba1bb5.png)|Un LCD (liquid crystal display) una pantalla delgada y plana formada por un número de píxeles en color o monocromos colocados delante de una fuente de luz o reflectora.    |       1 |
+| Sensor de pulso cardiaco   | ![image](https://user-images.githubusercontent.com/80369054/173700441-4970d2a4-3b3c-45f0-ac1f-100021e835c4.png)     | Sera utilizado para medir el pulso de las personas para obtener la frecuencia cardíaca, en tiempo real, en el proyecto.    |      1 |
+| git diff     | git diff       | git diff      |       ---: |
+| git diff     | git diff       | git diff      |       ---: |
+| git diff     | git diff       | git diff      |       ---: |
+| git diff     | git diff       | git diff      |       ---: |
+| git diff     | git diff       | git diff      |       ---: |
 | git diff     | git diff       | git diff      |       ---: |
 
 ## Epicas ⚙️
