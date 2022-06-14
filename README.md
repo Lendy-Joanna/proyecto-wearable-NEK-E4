@@ -1,23 +1,19 @@
-# Título del Proyecto
+# Kek Guante inteligente
 
 _Acá va un párrafo que describa lo que es el proyecto_
 
-## Comenzando 🚀
+## Objetivo 🚀
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
 Mira **Deployment** para conocer como desplegar el proyecto.
 
 
-### Pre-requisitos 📋
+### Visión 📋
 
-_Que cosas necesitas para instalar el software y como instalarlas_
+_Este proyecto tiene como finalidad medir el pulso de las personas mayores por medio de un guante inteligente para que se pueda mostrar cuantas pulsaciones tiene en 1 minuto y saber si su frecuencia cardiaca puede ayudar a determinar si el corazón está bombeando suficiente sangre._
 
-```
-Da un ejemplo
-```
-
-### Instalación 🔧
+### Material utilizado 🔧
 
 _Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
 
@@ -35,11 +31,11 @@ hasta finalizar
 
 _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
 
-## Ejecutando las pruebas ⚙️
+## Epicas ⚙️
 
 _Explica como ejecutar las pruebas automatizadas para este sistema_
 
-### Analice las pruebas end-to-end 🔩
+### Sprint 1🔩
 
 _Explica que verifican estas pruebas y por qué_
 
@@ -47,7 +43,7 @@ _Explica que verifican estas pruebas y por qué_
 Da un ejemplo
 ```
 
-### Y las pruebas de estilo de codificación ⌨️
+## Diagrama inical⌨️
 
 _Explica que verifican estas pruebas y por qué_
 
@@ -55,7 +51,7 @@ _Explica que verifican estas pruebas y por qué_
 Da un ejemplo
 ```
 
-## Despliegue 📦
+## Prototipo 📦
 
 _Agrega notas adicionales sobre como hacer deploy_
 
