@@ -1,10 +1,10 @@
 # Nek Guante inteligente
 
-_Acá va un párrafo que describa lo que es el proyecto_
+_Nek es un guante para medir el pulso cardico y la temperatura de las personas mayores_
 
 ## Objetivo 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+_Lograr optener un buen producto que realice las acciones que nos propusimos para las personas mayores._
 
 Mira **Deployment** para conocer como desplegar el proyecto.
 
@@ -15,21 +15,41 @@ _Este proyecto tiene como finalidad medir el pulso de las personas mayores por m
 
 ## Material utilizado 🔧
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
+Nombre	Imagen	Descripción 	Cantidad
+Visor LCD	
+Un LCD (liquid crystal display) una pantalla delgada y plana formada por un número de píxeles en color o monocromos colocados delante de una fuente de luz o reflectora.	
 
-_Dí cómo será ese paso_
 
-```
-Da un ejemplo
-```
 
-_Y repite_
 
-```
-hasta finalizar
-```
+1
+Sensor de pulso cardiaco 
+	
+Sera utilizado para medir el pulso de las personas para obtener la frecuencia cardíaca, en tiempo real, en el proyecto.	
 
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
+
+1
+Placa de pruebas	
+ 
+
+	Se usará para realizar el circuito.	
+
+1
+
+Cables jumper	
+
+	Son parte del circuito	
+Resistencias 	  	Son parte del circuito	
+Arduino Uno	
+
+
+
+	Son parte del circuito	
+Cable	 	Son parte del circuito	
+Guante	 	Prototipo inicial para el proyecto	
+
+
+1
 
 ## Epicas ⚙️
 
