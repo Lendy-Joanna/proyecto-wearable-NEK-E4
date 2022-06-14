@@ -1,4 +1,4 @@
-# Kek Guante inteligente
+# Nek Guante inteligente
 
 _Acá va un párrafo que describa lo que es el proyecto_
 
