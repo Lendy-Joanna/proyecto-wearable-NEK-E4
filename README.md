@@ -52,7 +52,8 @@ Da un ejemplo
 
 ## Prototipo 📦
 
-_Agrega notas adicionales sobre como hacer deploy_
+![image](https://user-images.githubusercontent.com/80369054/173702317-bf300f4a-4cd9-4ca7-b139-8565189825a6.png)
+
 
 ## Construido con 🛠️
 
