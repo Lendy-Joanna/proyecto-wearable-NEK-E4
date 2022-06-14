@@ -1,1 +1,1 @@
-#Nek Guante inteligente 
+Nek Guante inteligente 
