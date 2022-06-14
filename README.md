@@ -15,41 +15,10 @@ _Este proyecto tiene como finalidad medir el pulso de las personas mayores por m
 
 ## Material utilizado 🔧
 
-Nombre	Imagen	Descripción 	Cantidad
-Visor LCD	
-Un LCD (liquid crystal display) una pantalla delgada y plana formada por un número de píxeles en color o monocromos colocados delante de una fuente de luz o reflectora.	
-
-
-
-
-1
-Sensor de pulso cardiaco 
-	
-Sera utilizado para medir el pulso de las personas para obtener la frecuencia cardíaca, en tiempo real, en el proyecto.	
-
-
-1
-Placa de pruebas	
- 
-
-	Se usará para realizar el circuito.	
-
-1
-
-Cables jumper	
-
-	Son parte del circuito	
-Resistencias 	  	Son parte del circuito	
-Arduino Uno	
-
-
-
-	Son parte del circuito	
-Cable	 	Son parte del circuito	
-Guante	 	Prototipo inicial para el proyecto	
-
-
-1
+| Nombre |  Imagen | Descripción | Cantidad | 
+| :---         |     :---:      |          ---: |       ---: |
+| git status   | git status     | git status    |       ---: |
+| git diff     | git diff       | git diff      |       ---: |
 
 ## Epicas ⚙️
 
