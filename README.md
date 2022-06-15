@@ -28,11 +28,11 @@ _Este proyecto tiene como finalidad medir el pulso de las personas mayores por m
 
 ## Epicas ⚙️
 
-1.- Sensor de pulso: El guante inteligente medirá el pulso de las personas, enviando una alerta si esta se encuentra muy alto.
+1.- Sensor de pulso: El guante inteligente medirá el pulso de las personas, mostrando en el programa de arduino las pulsaciones por medio de una gráfica.
 
 2.- LED: El led se encenderá cada vez que tenga una pulsación de quien lo este utilizando.
 
-3.- Display LCD: Mostrará los datos de la temperatura y el pulso en pantalla.
+3.- Display LCD: Mostrará los datos del pulso en pantalla.
 
 ## Sprint 1🔩
 
