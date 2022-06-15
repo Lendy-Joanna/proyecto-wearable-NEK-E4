@@ -36,11 +36,7 @@ _Este proyecto tiene como finalidad medir el pulso de las personas mayores por m
 
 ## Sprint 1🔩
 
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
+_Se puede mostrar actualizado desde este medio_
 
 ## Diagrama inicial⌨️
 
