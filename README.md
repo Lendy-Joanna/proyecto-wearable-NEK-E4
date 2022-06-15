@@ -44,11 +44,7 @@ Da un ejemplo
 
 ## Diagrama inicial⌨️
 
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
+![image](https://user-images.githubusercontent.com/80369054/173736720-b40add58-c1ea-480f-8bd3-6c00fe0f20ad.png)
 
 ## Prototipo 📦
 
