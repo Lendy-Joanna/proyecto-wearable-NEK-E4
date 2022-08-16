@@ -75,6 +75,7 @@ _Este proyecto tiene como finalidad medir el pulso de las personas mayores por m
 
 ## Tablero
 
+![image](https://user-images.githubusercontent.com/80369054/184989975-e065a626-755b-47bb-8006-f198432564e7.png)
 
 
 ## Sprint 3
@@ -96,6 +97,7 @@ _Este proyecto tiene como finalidad medir el pulso de las personas mayores por m
 2.- Realizar pruebas finales de la funcionalidad del prototipo
 
 ## Tablero
+![image](https://user-images.githubusercontent.com/80369054/184990114-f3fa7de2-5583-4775-98f3-ae6e5290f857.png)
 
 
 ## Esquema
