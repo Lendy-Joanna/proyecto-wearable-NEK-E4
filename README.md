@@ -1,6 +1,6 @@
-# Nek Guante inteligente
+# Nek Manga inteligente
 
-_Nek es un guante para medir el pulso cardico y la temperatura de las personas mayores_
+_Nek es una manga para medir el pulso cardico y la temperatura de las personas mayores._
 
 ## Objetivo 🚀
 
@@ -11,7 +11,17 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 
 ## Visión 📋
 
-_Este proyecto tiene como finalidad medir el pulso de las personas mayores por medio de un guante inteligente para que se pueda mostrar cuantas pulsaciones tiene en 1 minuto y saber si su frecuencia cardiaca puede ayudar a determinar si el corazón está bombeando suficiente sangre._
+_Este proyecto tiene como finalidad medir el pulso de las personas mayores por medio de una manga inteligente mostrandolo en un display de LCD, medir la temperatura y ambiente en el que la persona se encuentra, tambien la manga podra tomar fotografias y video en tiempo real para saber donde se encuentra la persona que esta usando la manga._
+
+## Sprint 1
+
+
+## Epicas 
+| ID |  Actividad | Prioridad | 
+| :---         |     :---:      |          ---: |
+| 1.0     |  Integrar el sensor de pulso cardiaco al guante     |         Debería|
+| 1.0     |  Integrar el sensor de pulso cardiaco al guante     |         Debería|
+
 
 ## Material utilizado 🔧
 
