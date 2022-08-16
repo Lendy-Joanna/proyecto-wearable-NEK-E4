@@ -20,7 +20,7 @@ _Este proyecto tiene como finalidad medir el pulso de las personas mayores por m
 | ID |  Actividad | Prioridad | 
 | :---         |     :---:      |          ---: |
 | 1.0     |  Integrar el sensor de pulso cardiaco al guante     |         Debería|
-| 1.0     |  Integrar el sensor de pulso cardiaco al guante     |         Debería|
+| 1.1     |  Integrar el display de LCD para mostrar el pulso de las personas    |         Debería|
 
 
 ## Material utilizado 🔧
@@ -36,15 +36,13 @@ _Este proyecto tiene como finalidad medir el pulso de las personas mayores por m
 | Guante   | ![image](https://user-images.githubusercontent.com/80369054/173700949-1c4f7543-0271-4df6-be2f-e1c5b5736ad3.png)    | Prototipo inicial para el proyecto    |       1 |
 | LED   | ![image](https://user-images.githubusercontent.com/80369054/173701052-c63d6cc8-c752-4067-a071-b3914c7f7969.png)      | Sera parte del circuito para mostrar las pulsaciones    |       1 |
 
-## Tareas especificas ⚙️
+## Tareas⚙️
 
 1.- Sensor de pulso: El guante inteligente medirá el pulso de las personas, mostrando en el programa de arduino las pulsaciones por medio de una gráfica.
 
-2.- LED: El led se encenderá cada vez que tenga una pulsación de quien lo este utilizando.
+2.- Display LCD: Mostrará los datos del pulso en pantalla.
 
-3.- Display LCD: Mostrará los datos del pulso en pantalla.
-
-## Sprint 1🔩
+## Tablero
 
 ![image](https://user-images.githubusercontent.com/80369054/173942544-22795309-1ff1-4995-af68-b131f888aa0f.png)
 
@@ -55,6 +53,54 @@ _Este proyecto tiene como finalidad medir el pulso de las personas mayores por m
 ## Prototipo 📦
 
 ![image](https://user-images.githubusercontent.com/80369054/173702317-bf300f4a-4cd9-4ca7-b139-8565189825a6.png)
+
+
+## Sprint 2
+
+## Epicas 
+| ID |  Actividad | Prioridad | 
+| :---         |     :---:      |          ---: |
+| 2.0     |  Integrar el sensor de temperatura y humedad   |         Debería|
+| 2.1     |  Estructura de base de datos   |         Debería|
+| 2.2     |  Estructura y visualizacion de datos en la aplicacion |         Debería|
+| 2.3    | Mejora del prototipo|         Debería|
+
+## Material
+![image](https://user-images.githubusercontent.com/80369054/184964036-1c231fb5-4c4f-42a3-ae6c-e9d9dacc022e.png)
+
+## Tareas⚙️
+1.- Sensor de temperatura y humedad: El usuario podra medir la temperatura del ambiente en el que se encuentra junto con la humedad y podra visualizarlña en su telefono desde la aplicación.
+
+2.- Crear la estructura de la BD para almacenamiento de datos.
+
+## Tablero
+
+
+
+## Sprint 3
+
+## Epicas 
+| ID |  Actividad | Prioridad | 
+| :---         |     :---:      |          ---: |
+| 3.0     |  Integrar la ESP-CAM para grabar videos y tomar fotos en tiempo real |         Debería|
+| 3.1     |  Implementar la pantalla EW162B0YMY   |         Debería|
+| 3.2     | Almacenamiento de datos en la SD |         Debería|
+| 3.3   | Pruebas para la funcionalidad del sensor de pulso|         Debería|
+
+## Material
+![image](https://user-images.githubusercontent.com/80369054/184966722-a605ce39-3a29-4ebb-abb6-dbec981accaf.png)
+
+## Tareas⚙️
+1.- Integrar la placa ESPCAM para tomar fotos en tiempo real y almacenar las fotografias en una SD
+
+2.- Realizar pruebas finales de la funcionalidad del prototipo
+
+
+## Esquema
+![image](https://user-images.githubusercontent.com/80369054/184967842-c929c87f-40c5-4fea-9880-eccaef6e3754.png)
+
+## Dibujo del prototipo final
+![image](https://user-images.githubusercontent.com/80369054/184968870-e190e506-3c6c-463d-8737-5c0afc4e657a.png)
 
 
 ## Construido con 🛠️
