@@ -95,6 +95,8 @@ _Este proyecto tiene como finalidad medir el pulso de las personas mayores por m
 
 2.- Realizar pruebas finales de la funcionalidad del prototipo
 
+## Tablero
+
 
 ## Esquema
 ![image](https://user-images.githubusercontent.com/80369054/184967842-c929c87f-40c5-4fea-9880-eccaef6e3754.png)
