@@ -104,7 +104,7 @@ _Este proyecto tiene como finalidad medir el pulso de las personas mayores por m
 ![image](https://user-images.githubusercontent.com/80369054/184967842-c929c87f-40c5-4fea-9880-eccaef6e3754.png)
 
 ## Dibujo del prototipo final
-![image](https://user-images.githubusercontent.com/80369054/184968870-e190e506-3c6c-463d-8737-5c0afc4e657a.png)
+![WhatsApp Image 2022-08-17 at 3 10 23 PM](https://user-images.githubusercontent.com/72764179/185233863-0b5e3d03-698f-4f4d-ad80-2e1df4363d59.jpeg)
 
 ##Estructura de base de datos para el sensor de pulso
 ![image](https://user-images.githubusercontent.com/80369054/184977379-2ccf2105-8c30-4788-ae5e-eb6fbb03e5eb.png)
