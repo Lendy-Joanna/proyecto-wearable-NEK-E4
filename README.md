@@ -1,6 +1,6 @@
-# Nek Manga inteligente
+# Nek Bolso inteligente
 
-_Nek es una manga para medir el pulso cardico y la temperatura de las personas mayores._
+_Nek es un bolso para medir el pulso cardico y la temperatura de las personas mayores._
 
 ## Objetivo 🚀
 
@@ -11,7 +11,7 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 
 ## Visión 📋
 
-_Este proyecto tiene como finalidad medir el pulso de las personas mayores por medio de una manga inteligente mostrandolo en un display de LCD, medir la temperatura y ambiente en el que la persona se encuentra, tambien la manga podra tomar fotografias y video en tiempo real para saber donde se encuentra la persona que esta usando la manga._
+_Este proyecto tiene como finalidad medir el pulso de las personas mayores por medio de un bolso inteligente mostrandolo en un display de LCD, medir la temperatura y ambiente en el que la persona se encuentra, también el bolso podrá tomar fotografias y video en tiempo real para saber donde se encuentra la persona que esta usando el bolso._
 
 ## Sprint 1
 
@@ -19,7 +19,7 @@ _Este proyecto tiene como finalidad medir el pulso de las personas mayores por m
 ## Epicas 
 | ID |  Actividad | Prioridad | 
 | :---         |     :---:      |          ---: |
-| 1.0     |  Integrar el sensor de pulso cardiaco al guante     |         Debería|
+| 1.0     |  Integrar el sensor de pulso cardiaco al bolso     |         Debería|
 | 1.1     |  Integrar el display de LCD para mostrar el pulso de las personas    |         Debería|
 
 
@@ -38,7 +38,7 @@ _Este proyecto tiene como finalidad medir el pulso de las personas mayores por m
 
 ## Tareas⚙️
 
-1.- Sensor de pulso: El guante inteligente medirá el pulso de las personas, mostrando en el programa de arduino las pulsaciones por medio de una gráfica.
+1.- Sensor de pulso: El bolso inteligente medirá el pulso de las personas, mostrando en el programa de arduino las pulsaciones por medio de una gráfica.
 
 2.- Display LCD: Mostrará los datos del pulso en pantalla.
 
@@ -69,7 +69,7 @@ _Este proyecto tiene como finalidad medir el pulso de las personas mayores por m
 ![image](https://user-images.githubusercontent.com/80369054/184964036-1c231fb5-4c4f-42a3-ae6c-e9d9dacc022e.png)
 
 ## Tareas⚙️
-1.- Sensor de temperatura y humedad: El usuario podra medir la temperatura del ambiente en el que se encuentra junto con la humedad y podra visualizarlña en su telefono desde la aplicación.
+1.- Sensor de temperatura y humedad: El usuario podra medir la temperatura del ambiente en el que se encuentra junto con la humedad y podra visualizarla en su telefono desde la aplicación.
 
 2.- Crear la estructura de la BD para almacenamiento de datos.
 
