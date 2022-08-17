@@ -1,8 +1,8 @@
 #include "WifiCam.hpp"
 #include <WiFi.h>
 
-static const char* WIFI_SSID = "iPhone";
-static const char* WIFI_PASS = "castillo";
+static const char* WIFI_SSID = "";
+static const char* WIFI_PASS = "";
 
 esp32cam::Resolution initialResolution;
 
