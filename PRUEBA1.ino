@@ -5,8 +5,8 @@
 #include <DHT.h>
 
 // Replace with your network credentials
-const char* ssid = "iPhone";
-const char* password = "castillo";
+const char* ssid = "";
+const char* password = "";
 
 #define DHTPIN 27     // Digital pin connected to the DHT sensor
 
