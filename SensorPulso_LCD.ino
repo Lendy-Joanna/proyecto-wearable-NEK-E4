@@ -175,3 +175,10 @@ Serial.println("Encendido");
       }
       }
 }
+
+//Autores:
+//Sandoval Rodríguez Lendy Joanna
+//Rosas Castillo Gabriela
+//ENLACES DE APOYO:
+//https://www.xtronical.com/basics/heart-beat-sensor-ecg-display/
+//https://www.xtronical.com/pulseheartsensor/
