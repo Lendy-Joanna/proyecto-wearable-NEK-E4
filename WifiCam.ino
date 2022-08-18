@@ -57,3 +57,10 @@ loop()
 {
   server.handleClient();
 }
+
+//Autores:
+//Sandoval Rodríguez Lendy Joanna
+//Rosas Castillo Gabriela
+//ENLACES DE APOYO:
+//https://www.xtronical.com/esp32camintro/
+//https://www.xtronical.com/projects/frogger/2-moving-esp32-connecting-display/
