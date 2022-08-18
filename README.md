@@ -128,7 +128,10 @@ _Este proyecto tiene como finalidad medir el pulso de las personas mayores por m
 ![image](https://user-images.githubusercontent.com/80369054/184990114-f3fa7de2-5583-4775-98f3-ae6e5290f857.png)
 
 
-## Esquema
+## Esquema de sensor de temperatura y humedad
+![image](https://user-images.githubusercontent.com/80369054/185491058-a52f0d3c-6b5a-4fc3-b1b6-b88996c42cf1.png)
+
+## Esquema de sensor de Pulso Cardiaco
 ![image](https://user-images.githubusercontent.com/80369054/184967842-c929c87f-40c5-4fea-9880-eccaef6e3754.png)
 
 ## Dibujo del prototipo final
