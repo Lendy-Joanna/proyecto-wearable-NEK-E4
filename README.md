@@ -12,7 +12,7 @@ _Nek es un bolso para medir el pulso cardico y la temperatura de las personas ma
 
 ## Objetivo 🚀
 
-_Lograr optener un buen producto que realice las acciones que nos propusimos para las personas mayores._
+_Lograr oBtener un buen producto que realice las acciones que nos propusimos para las personas mayores._
 
 Mira **Deployment** para conocer como desplegar el proyecto.
 
