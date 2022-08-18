@@ -48,11 +48,11 @@ _Este proyecto tiene como finalidad medir el pulso de las personas mayores por m
 
 ## Diagrama inicial⌨️
 
-![image](https://user-images.githubusercontent.com/80369054/173736720-b40add58-c1ea-480f-8bd3-6c00fe0f20ad.png)
+![image](https://user-images.githubusercontent.com/72764179/185483262-bff0ac7d-d159-4132-831f-b462a063c43e.png)
 
 ## Prototipo 📦
 
-![image](https://user-images.githubusercontent.com/80369054/173702317-bf300f4a-4cd9-4ca7-b139-8565189825a6.png)
+![image](https://user-images.githubusercontent.com/72764179/185483914-26e1b2cf-6f4a-4cef-89c2-ee906fcf65c6.png)
 
 
 ## Sprint 2
