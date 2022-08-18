@@ -33,8 +33,7 @@ _Este proyecto tiene como finalidad medir el pulso de las personas mayores por m
 | Cables jumper    | ![image](https://user-images.githubusercontent.com/80369054/173700664-17c86f8f-e01b-4c69-9a0e-3bbe1ef021c2.png)     |Son parte del circuito     |      1 |
 | Arduino Uno    | ![image](https://user-images.githubusercontent.com/80369054/173700791-49503c38-92bf-4e2d-a558-9062e92ce779.png)     |Son parte del circuito   |     1 |
 | Cable     | ![image](https://user-images.githubusercontent.com/80369054/173700866-c17b8071-de85-4803-a0e1-17754eaf6605.png)     | Es parye del circuito    |       1 |
-| Bolso   | ![image](https://user-images.githubusercontent.com/72764179/185469042-34b9f094-117c-4fea-9a1a-f89334c70f25.png)
-    | Prototipo inicial para el proyecto    |       1 |
+| Bolso   | ![image](https://user-images.githubusercontent.com/72764179/185469042-34b9f094-117c-4fea-9a1a-f89334c70f25.png) | Prototipo inicial para el proyecto    |  1 |
 | LED   | ![image](https://user-images.githubusercontent.com/80369054/173701052-c63d6cc8-c752-4067-a071-b3914c7f7969.png)      | Sera parte del circuito para mostrar las pulsaciones    |       1 |
 
 ## Tareas⚙️
