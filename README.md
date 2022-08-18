@@ -72,10 +72,10 @@ _Este proyecto tiene como finalidad medir el pulso de las personas mayores por m
 | Sensor de pulso cardiaco   | ![image](https://user-images.githubusercontent.com/80369054/173700441-4970d2a4-3b3c-45f0-ac1f-100021e835c4.png)     | Sera utilizado para medir el pulso de las personas para obtener la frecuencia cardíaca, en tiempo real, en el proyecto.    |      1 |
 | Placa de pruebas     | ![image](https://user-images.githubusercontent.com/80369054/173700581-fb88b3ca-80a7-4a99-91e2-e18a7c9db920.png)| Se usará para realizar el circuito.     |       1 |
 | Cables jumper    | ![image](https://user-images.githubusercontent.com/80369054/173700664-17c86f8f-e01b-4c69-9a0e-3bbe1ef021c2.png)     |Son parte del circuito     |      1 |
-| Arduino Uno    | ![image](https://user-images.githubusercontent.com/80369054/173700791-49503c38-92bf-4e2d-a558-9062e92ce779.png)     |Son parte del circuito   |     1 |
+| Sensor de temperatura y humedad     | ![image](https://user-images.githubusercontent.com/80369054/173700791-49503c38-92bf-4e2d-a558-9062e92ce779.png)     |Dispositivo utilizado en espacios de interior a fin de monitorear la temperatura y humedad   |     1 |
 | Cable     | ![image](https://user-images.githubusercontent.com/80369054/173700866-c17b8071-de85-4803-a0e1-17754eaf6605.png)     | Es parye del circuito    |       1 |
 | Bolso   | ![image](https://user-images.githubusercontent.com/72764179/185469042-34b9f094-117c-4fea-9a1a-f89334c70f25.png) | Prototipo inicial para el proyecto    |  1 |
-| LED   | ![image](https://user-images.githubusercontent.com/80369054/173701052-c63d6cc8-c752-4067-a071-b3914c7f7969.png)      | Sera parte del circuito para mostrar las pulsaciones    |       1 |
+| Placa ESP32   | ![image](https://user-images.githubusercontent.com/80369054/173701052-c63d6cc8-c752-4067-a071-b3914c7f7969.png)      | Chip con tecnología Wi-Fi y Bluetooth de modo dual integrada    |       1 |
 
 ## Tareas⚙️
 1.- Sensor de temperatura y humedad: El usuario podra medir la temperatura del ambiente en el que se encuentra junto con la humedad y podra visualizarla en su telefono desde la aplicación.
