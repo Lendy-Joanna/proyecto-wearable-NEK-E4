@@ -138,10 +138,10 @@ _Este proyecto tiene como finalidad medir el pulso de las personas mayores por m
 ## Dibujo del prototipo final
 ![WhatsApp Image 2022-08-17 at 3 10 23 PM](https://user-images.githubusercontent.com/72764179/185233863-0b5e3d03-698f-4f4d-ad80-2e1df4363d59.jpeg)
 
-##Resultado final 
+## Resultado final 
 ![image](https://user-images.githubusercontent.com/80369054/185492206-fa17c7dc-ace4-4b3e-a5cc-a96b06de3d6f.png)
 
-##Video
+## Video
 [
 ](https://drive.google.com/file/d/1LY6piOy1-6AsioX2QBXcPLJUPrhwNTVg/view)
 ---
