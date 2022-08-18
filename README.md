@@ -101,8 +101,7 @@ _Este proyecto tiene como finalidad medir el pulso de las personas mayores por m
 ## Material
 | Nombre |  Imagen | Descripción | Cantidad | 
 | :---         |     :---:      |          ---: |       ---: |
-| Display de LCD   | ![image](https://user-images.githubusercontent.com/72764179/185487602-a56f2c13-4814-444e-9f8f-9d501f8f8fb9.png)
- |Un LCD (liquid crystal display) una pantalla delgada y plana formada por un número de píxeles en color o monocromos colocados delante de una fuente de luz o reflectora.    |       1 |
+| Display de LCD   | ![image](https://user-images.githubusercontent.com/72764179/185487602-a56f2c13-4814-444e-9f8f-9d501f8f8fb9.png) |Un LCD (liquid crystal display) una pantalla delgada y plana formada por un número de píxeles en color o monocromos colocados delante de una fuente de luz o reflectora.    |       1 |
 | Sensor de pulso cardiaco   | ![image](https://user-images.githubusercontent.com/80369054/173700441-4970d2a4-3b3c-45f0-ac1f-100021e835c4.png)     | Sera utilizado para medir el pulso de las personas para obtener la frecuencia cardíaca, en tiempo real, en el proyecto.    |      1 |
 | Placa de pruebas     | ![image](https://user-images.githubusercontent.com/80369054/173700581-fb88b3ca-80a7-4a99-91e2-e18a7c9db920.png)| Se usará para realizar el circuito.     |       1 |
 | Cables jumper    | ![image](https://user-images.githubusercontent.com/80369054/173700664-17c86f8f-e01b-4c69-9a0e-3bbe1ef021c2.png)     |Son parte del circuito     |      1 |
