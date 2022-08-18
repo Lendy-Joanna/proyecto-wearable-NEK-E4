@@ -141,6 +141,7 @@ _Este proyecto tiene como finalidad medir el pulso de las personas mayores por m
 ![image](https://user-images.githubusercontent.com/80369054/185492206-fa17c7dc-ace4-4b3e-a5cc-a96b06de3d6f.png)
 
 ##Video
-
+[
+](https://drive.google.com/file/d/1LY6piOy1-6AsioX2QBXcPLJUPrhwNTVg/view)
 ---
 ⌨️ con ❤️ por Equipo 4 😊
