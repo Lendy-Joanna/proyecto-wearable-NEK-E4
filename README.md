@@ -73,7 +73,6 @@ _Este proyecto tiene como finalidad medir el pulso de las personas mayores por m
 | Placa de pruebas     | ![image](https://user-images.githubusercontent.com/80369054/173700581-fb88b3ca-80a7-4a99-91e2-e18a7c9db920.png)| Se usará para realizar el circuito.     |       1 |
 | Cables jumper    | ![image](https://user-images.githubusercontent.com/80369054/173700664-17c86f8f-e01b-4c69-9a0e-3bbe1ef021c2.png)     |Son parte del circuito     |      1 |
 | Sensor de temperatura y humedad     | ![image](https://user-images.githubusercontent.com/72764179/185485095-722e5099-6165-40c8-973a-73612d40daca.png)    | Dispositivo utilizado en espacios de interior a fin de monitorear la temperatura y humedad   |     1 |
-| Cable     | ![image](https://user-images.githubusercontent.com/80369054/173700866-c17b8071-de85-4803-a0e1-17754eaf6605.png)     | Es parye del circuito    |       1 |
 | Bolso   | ![image](https://user-images.githubusercontent.com/72764179/185469042-34b9f094-117c-4fea-9a1a-f89334c70f25.png) | Prototipo inicial para el proyecto    |  1 |
 | Placa ESP32   | ![image](https://user-images.githubusercontent.com/72764179/185485204-4a764b66-4d85-46f2-8cfc-02a8bf6624c4.png) | Chip con tecnología Wi-Fi y Bluetooth de modo dual integrada    |       1 |
 | Cable de datos   | ![image](https://user-images.githubusercontent.com/72764179/185485764-8e547675-e2dd-4370-90e5-04d5838557b4.png) | Es un cable que permite la transmisión de datos de un punto a otro dentro entre ordenadores  |       1 |
@@ -100,7 +99,17 @@ _Este proyecto tiene como finalidad medir el pulso de las personas mayores por m
 | 3.3   | Pruebas para la funcionalidad del sensor de pulso|         Debería|
 
 ## Material
-![image](https://user-images.githubusercontent.com/80369054/184966722-a605ce39-3a29-4ebb-abb6-dbec981accaf.png)
+| Nombre |  Imagen | Descripción | Cantidad | 
+| :---         |     :---:      |          ---: |       ---: |
+| Visor LCD   | ![image](https://user-images.githubusercontent.com/80369054/173699668-76e4703f-cbea-4009-903c-d10d63ba1bb5.png)|Un LCD (liquid crystal display) una pantalla delgada y plana formada por un número de píxeles en color o monocromos colocados delante de una fuente de luz o reflectora.    |       1 |
+| Sensor de pulso cardiaco   | ![image](https://user-images.githubusercontent.com/80369054/173700441-4970d2a4-3b3c-45f0-ac1f-100021e835c4.png)     | Sera utilizado para medir el pulso de las personas para obtener la frecuencia cardíaca, en tiempo real, en el proyecto.    |      1 |
+| Placa de pruebas     | ![image](https://user-images.githubusercontent.com/80369054/173700581-fb88b3ca-80a7-4a99-91e2-e18a7c9db920.png)| Se usará para realizar el circuito.     |       1 |
+| Cables jumper    | ![image](https://user-images.githubusercontent.com/80369054/173700664-17c86f8f-e01b-4c69-9a0e-3bbe1ef021c2.png)     |Son parte del circuito     |      1 |
+| Sensor de temperatura y humedad     | ![image](https://user-images.githubusercontent.com/72764179/185485095-722e5099-6165-40c8-973a-73612d40daca.png)    | Dispositivo utilizado en espacios de interior a fin de monitorear la temperatura y humedad   |     1 |
+| Bolso   | ![image](https://user-images.githubusercontent.com/72764179/185469042-34b9f094-117c-4fea-9a1a-f89334c70f25.png) | Prototipo inicial para el proyecto    |  1 |
+| Placa ESP32   | ![image](https://user-images.githubusercontent.com/72764179/185485204-4a764b66-4d85-46f2-8cfc-02a8bf6624c4.png) | Chip con tecnología Wi-Fi y Bluetooth de modo dual integrada    |       1 |
+| Cable de datos   | ![image](https://user-images.githubusercontent.com/72764179/185485764-8e547675-e2dd-4370-90e5-04d5838557b4.png) | Es un cable que permite la transmisión de datos de un punto a otro dentro entre ordenadores  |       1 |
+| Tela   | ![image](https://user-images.githubusercontent.com/72764179/185485470-2e465117-dded-438c-b5eb-6d3bb1235292.png) | Tejido hecho con fibras textiles, que se utiliza para la confección de prendas, forros de diversos objetos    |       1 |
 
 ## Tareas⚙️
 1.- Integrar la placa ESPCAM para tomar fotos en tiempo real y almacenar las fotografias en una SD
