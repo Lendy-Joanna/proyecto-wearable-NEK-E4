@@ -1,4 +1,6 @@
-# Nek Bolso inteligente
+#Proyecto wearable UTNG 
+
+## Nek Bolso inteligente
 
 _Nek es un bolso para medir el pulso cardico y la temperatura de las personas mayores._
 
