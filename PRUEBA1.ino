@@ -194,3 +194,10 @@ void loop(){
   digitalWrite(LED, LOW);    // turn the LED off by making the voltage LOW
   delay(DELAY);
 }
+
+//Autores:
+//Sandoval Rodríguez Lendy Joanna
+//Rosas Castillo Gabriela
+//ENLACES DE APOYO:
+//https://www.xtronical.com/esp32camintro/
+//https://www.xtronical.com/projects/frogger/2-moving-esp32-connecting-display/
