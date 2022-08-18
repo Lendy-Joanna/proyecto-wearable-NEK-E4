@@ -2,6 +2,12 @@
 
 _Nek es un bolso para medir el pulso cardico y la temperatura de las personas mayores._
 
+## Materia: Desarrollo para dispositivos inteligentes 
+## Docente: Anastacio Rodríguez García
+## Integrantes
+### Sandoval Rodríguez Lendy Joanna
+### Rosas Castillo Gabriela 
+
 ## Objetivo 🚀
 
 _Lograr optener un buen producto que realice las acciones que nos propusimos para las personas mayores._
