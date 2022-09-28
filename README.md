@@ -23,7 +23,7 @@ _Este proyecto tiene como finalidad medir el pulso de las personas mayores por m
 
 
 ## Epicas 
-| ID |  Actividad | Prioridad | 
+| ID |  Nombre | Prioridad | Descripción |
 | :---         |     :---:      |          ---: |
 | 1.0     |  Integrar el sensor de pulso cardiaco al bolso     |         Debería|
 | 1.1     |  Integrar el display de LCD para mostrar el pulso de las personas    |         Debería|
